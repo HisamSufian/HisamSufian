@@ -1,7 +1,6 @@
-(https://x.com/hisam_sufian/header_photo)
+![A CSE graduate!](https://x.com/hisam_sufian/header_photo)
 ### Hi there 👋, my name is Sufian
 #### A CSE graduate!
-![A CSE graduate!]
 
 have strong interest in software industry and passion for building scalable and efficient it solutions
 
