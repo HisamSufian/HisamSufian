@@ -17,12 +17,10 @@ Skills: C / C++ / Python / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HisamSufian)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My RoadMap
-  
-[![roadmap.sh](https://roadmap.sh/card/wide/670f5d4f791f57dd603419c1?variant=dark&roadmaps=full-stack%2Ctechnical-writer%2Capi-design)](https://roadmap.sh)
+
 
 
 #### 📈 My Github Stats: ... <br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rafidalhaque&show_icons=true&theme=vue-dark)&nbsp;&nbsp;<br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hisamsufian&show_icons=true&theme=vue-dark)&nbsp;&nbsp;<br>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidalhaque&layout=compact) -->
