@@ -3,9 +3,6 @@
 <br>
 
 
-
-Skills: C / C++ / Python / JS / HTML / CSS
-
 - 🔭 I’m currently working on https://aunkurctgnorth.org/ 
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: hisamsufian@gmail.com 
