@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Assalamu+Alaikum+Wa+Rahmatullah+%F0%9F%91%8B.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Salam%F0%9F%91%8B.)](https://git.io/typing-svg)
 ##### I'm Sufian. A CSE graduate, have interest in software and passion for building scalable and efficient it solutions
 <br>
 
