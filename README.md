@@ -38,12 +38,9 @@ I'm enthusiastic about **data-driven systems**, **AI-powered applications**, and
 ---
 
 ### 💡 Quote to Live By  
-> *"Code with purpose, learn with curiosity, and build with impact."*
+> *"Laziness is a programmer's main virtue."*
 
----
-
-### 🧩 Fun Fact  
-☕ I debug better after coffee & I automate everything I can.  
+---  
 
 ---
 
