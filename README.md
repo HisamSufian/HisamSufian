@@ -10,7 +10,7 @@ I'm enthusiastic about **data-driven systems**, **AI-powered applications**, and
 
 ### 🚀 Currently Working On  
 - [Aunkur CTG North](https://aunkurctgnorth.org/) — building digital platforms for educational and social growth  
-- Exploring **Data Science**, **AI**, and **Backend Development**
+- Exploring **Web Development** , **Data Science**, and **AI**
 
 ---
 
